@@ -1,0 +1,5 @@
+let error = {};
+
+export {
+    error
+}
